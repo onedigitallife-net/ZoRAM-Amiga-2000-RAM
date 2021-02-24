@@ -2,7 +2,7 @@
 
 This project is early in development. It may or may not work at this time.
 
-I have always felt big box Amiga's should be used as intended. Expansion should be primarily targeted to the expansion slots provided. This project aims to provde an 8 megabyte expansion option via the Zorro II bus of the Amiga 2000. Based on Liv's GottaGoFastRAM for 68000 DIP based Amigas, I had to make a few layout changes to adapt his design to the Zorro II bus. First, obviously, this design is a Zorro II card format. Becuase of the relative messiness of data and address line locations on the Zorro II connector, it was necessary to  change the connection points of those on the Xilinx. Leaving them as is would have been added unecessary PCB design complexities. As such, the JED file for this project is specific to this project.
+I have always felt big box Amiga's should be used as intended. Expansion should be targeted to the expansion slots provided. This project aims to provde an 8 megabyte expansion option via the Zorro II bus of the Amiga 2000. Based on Liv's GottaGoFastRAM for 68000 DIP based Amigas. Becuase of the relative messiness of the  data and address line locations on the Zorro II connector, it was necessary to  change the connection points on the Xilinx. As such, the JED file for this project is specific to this project and cannot be interchanged with Liv's original.
 
 ![ZoRAM Image](ZoRAM.jpg)
 
@@ -18,3 +18,10 @@ To be completed later.
 # BOM
 
 To be completed later.
+
+|Component|Location|QTY|Source|Part Number|
+--- | --- | --- | --- | ---
+4Mx16 DRAM TSSOP| U? | 1 | Ali Express | K4E641612D or GM71VS65163
+XC9572XL-10VQ64C|U?|1|DigiKey|xxxx
+||||
+||||
