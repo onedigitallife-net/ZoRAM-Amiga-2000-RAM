@@ -2,7 +2,7 @@
 
 This project is early in development. It may or may not work at this time.
 
-I have always felt big box Amiga's should be used as intended. Expansion should be targeted to the expansion slots provided. This project aims to provde an 8 megabyte expansion option via the Zorro II bus of the Amiga 2000. Based on Liv's GottaGoFastRAM for 68000 DIP based Amigas. Becuase of the relative messiness of the  data and address line locations on the Zorro II connector, it was necessary to  change the connection points on the Xilinx. As such, the JED file for this project is specific to this project and cannot be interchanged with Liv's original.
+I have always felt big box Amiga's should be used as intended. Expansion should be targeted to the expansion slots provided. This project aims to provde an 8 megabyte expansion option via the Zorro II bus of the Amiga 2000. Based on Liv's GottaGoFastRAM for 68000 DIP based Amigas. Due to the relative messiness of the  data and address line locations on the Zorro II connector, it was necessary to  change the connection points on the Xilinx. As such, the JED file for this project is specific to this project and cannot be interchanged with Liv's original.
 
 ![ZoRAM Image](ZoRAM.jpg)
 
