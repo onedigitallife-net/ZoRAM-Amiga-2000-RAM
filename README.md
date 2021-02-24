@@ -21,7 +21,7 @@ To be completed later.
 --- | --- | --- | --- | ---
 4Mx16 DRAM| U6 | 1 | Ali Express | K4E641612D or GM71VS65163
 XC9572XL-10VQ64C|U5|1|DigiKey|xxxx
-AP2210N-3.3TRG1|U?|1|DigiKey|xxxx
+AP2210N-3.3TRG1|U2|1|DigiKey|xxxx
 74LVC245N|U3,U4|2|DigiKey|xxxx
 Ferrite Bead|FB1|1|DigiKey|xxxx
 0.1uF Ceramic Capacitor|C3-12|10|DigiKey|xxxx
