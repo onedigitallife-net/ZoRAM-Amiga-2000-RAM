@@ -29,3 +29,6 @@ Ferrite Bead|FB1|1|DigiKey|xxxx
 10uF Ceramic Capacitor|C2|1|DigiKey|xxxx
 6 Pin Male 2.54 Pitch Header (Optional)|J1|1|DigiKey|xxxx
 
+# Revision History
+
+V0.5 - Initial Commit
