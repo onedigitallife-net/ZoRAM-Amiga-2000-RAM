@@ -19,7 +19,7 @@ To be completed later.
 
 |Component|Pckage|Location|QTY|Source|Part Number|
 --- | --- | --- | --- | --- | ---
-4Mx16 DRAM|TSOPP 2| U6 | 1 | Ali Express or E-Bay| K4E641612D or GM71VS65163
+4Mx16 DRAM|TSOP(II)| U6 | 1 | Ali Express or E-Bay| K4E641612D or GM71VS65163
 XC9572XL-10VQ64C|64-VQFP|U5|1|DigiKey|122-1266-ND or 122-1982-ND
 AP2210N-3.3TRG1|SOT-23-3|U2|1|DigiKey|AP2210N-3.3TRG1DICT-ND
 SN74LVC245A|SOIC|U3,U4|2|DigiKey|296-1232-1-ND
