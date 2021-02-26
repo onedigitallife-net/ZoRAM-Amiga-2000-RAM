@@ -17,7 +17,7 @@ To be completed later.
 
 # BOM
 
-|Component|Pckage|Location|QTY|Source|Part Number|
+|Component|Package|Location|QTY|Source|Part Number|
 --- | --- | --- | --- | --- | ---
 4Mx16 DRAM|TSOP(II)| U6 | 1 | Ali Express or E-Bay| K4E641612D or GM71VS65163
 XC9572XL-10VQ64C|64-VQFP|U5|1|DigiKey|122-1266-ND or 122-1982-ND
