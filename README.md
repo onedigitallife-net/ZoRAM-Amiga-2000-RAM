@@ -17,17 +17,17 @@ To be completed later.
 
 # BOM
 
-|Component|Location|QTY|Source|Part Number|
---- | --- | --- | --- | ---
-4Mx16 DRAM| U6 | 1 | Ali Express | K4E641612D or GM71VS65163
-XC9572XL-10VQ64C|U5|1|DigiKey|xxxx
-AP2210N-3.3TRG1|U2|1|DigiKey|xxxx
-74LVC245N|U3,U4|2|DigiKey|xxxx
-Ferrite Bead|FB1|1|DigiKey|xxxx
-0.1uF Ceramic Capacitor|C3-12|10|DigiKey|xxxx
-4.7uF Ceramic Capacitor|C1|1|DigiKey|xxxx
-10uF Ceramic Capacitor|C2|1|DigiKey|xxxx
-6 Pin Male 2.54 Pitch Header (Optional)|J1|1|DigiKey|xxxx
+|Component|Pckage|Location|QTY|Source|Part Number|
+--- | --- | --- | --- | --- | ---
+4Mx16 DRAM|TSOPP 2| U6 | 1 | Ali Express or E-Bay| K4E641612D or GM71VS65163
+XC9572XL-10VQ64C|64-VQFP|U5|1|DigiKey|122-1266-ND or 122-1982-ND
+AP2210N-3.3TRG1|SOT-23-3|U2|1|DigiKey|AP2210N-3.3TRG1DICT-ND
+SN74LVC245A|SOIC|U3,U4|2|DigiKey|296-1232-1-ND
+Ferrite Bead|1206|FB1|1|DigiKey|MH3261-601YCT-ND
+0.1uF Ceramic Capacitor|1206|C3-12|10|DigiKey|1276-2744-1-ND
+4.7uF Ceramic Capacitor|1206|C1|1|DigiKey|1276-1055-1-ND
+10uF Ceramic Capacitor|1206|C2|1|DigiKey|1276-1853-1-ND
+6 Pin Male 2.54 Pitch Header (Optional)|--|J1|1|DigiKey|1849-PR20206VBNN-ND‎
 
 # Revision History
 
