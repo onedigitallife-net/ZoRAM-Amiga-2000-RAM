@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Amiga-Library:ZorroCardEdge ZorroSlot1
+L ZorroRAM-rescue:ZorroCardEdge-Amiga-Library ZorroSlot1
 U 1 1 60310C7A
 P 1400 3450
 F 0 "ZorroSlot1" H 1825 5467 50  0000 R CNN
@@ -376,24 +376,6 @@ F 3 "" H 8200 1600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1200 1750 1200 1650
-Wire Wire Line
-	1200 1650 800  1650
-Wire Wire Line
-	800  1650 800  1700
-Connection ~ 1200 1650
-$Comp
-L power:GND #PWR0110
-U 1 1 60362CA3
-P 800 1700
-F 0 "#PWR0110" H 800 1450 50  0001 C CNN
-F 1 "GND" H 805 1527 50  0000 C CNN
-F 2 "" H 800 1700 50  0001 C CNN
-F 3 "" H 800 1700 50  0001 C CNN
-	1    800  1700
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
 	1700 1750 1700 1650
 Wire Wire Line
 	1700 1650 2000 1650
@@ -482,10 +464,6 @@ BA22
 Text Label 1200 4550 2    50   ~ 0
 BA23
 Wire Wire Line
-	1200 6550 1200 6750
-Wire Wire Line
-	1200 6750 1450 6750
-Wire Wire Line
 	1700 6750 1700 6550
 $Comp
 L power:GND #PWR0114
@@ -498,7 +476,6 @@ F 3 "" H 1450 6750 50  0001 C CNN
 	1    1450 6750
 	1    0    0    -1  
 $EndComp
-Connection ~ 1450 6750
 Wire Wire Line
 	1450 6750 1700 6750
 Text Label 1200 4750 2    50   ~ 0
