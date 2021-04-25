@@ -9,7 +9,7 @@ I have always felt big box Amiga's should be used as intended. Expansion should 
 
 # PCB Ordering and Assembly
 
-I stuck with surface mount components for this project since the Xilinx CPLD and Samsung memory module are only available in SMD configurations. I normally try to avoid SMD for DIY projects, but if I already had to deal with those, might as well make the entire project SMD.
+Under construction
 
 # Programming the CPLD
 
