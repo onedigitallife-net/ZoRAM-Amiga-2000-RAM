@@ -31,4 +31,4 @@ Ferrite Bead (600 Ohms@100MHz)|1206|FB1|1|DigiKey|MH3261-601YCT-ND
 
 # Revision History
 
-V0.5 - Initial Commit
+V0.5 - Prototype Revision
